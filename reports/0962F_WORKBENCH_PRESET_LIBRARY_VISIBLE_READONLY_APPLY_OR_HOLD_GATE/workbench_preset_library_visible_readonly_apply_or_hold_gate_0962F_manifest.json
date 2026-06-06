@@ -1,0 +1,26 @@
+{
+  "stage_id": "0962F_WORKBENCH_PRESET_LIBRARY_VISIBLE_READONLY_APPLY_OR_HOLD_GATE",
+  "created_at": "20260607_075742",
+  "root": "D:\\Documents\\SmartEdu\\xiaobei-core",
+  "external_report_dir": "D:\\Documents\\SmartEdu\\xiaobei-core-external-reports\\0962F_WORKBENCH_PRESET_LIBRARY_VISIBLE_READONLY_APPLY_OR_HOLD_GATE_20260607_075742",
+  "zip_file": "workbench_preset_library_visible_readonly_apply_or_hold_gate_0962F_review_package.zip",
+  "zip_entries": [
+    "docs/foundation/workbench_preset_library_visible_readonly_apply_or_hold_gate_0962F.md",
+    "docs/foundation/workbench_preset_library_visible_readonly_apply_or_hold_gate_0962F.json",
+    "scripts/validate_workbench_preset_library_visible_readonly_apply_or_hold_gate_0962F.py",
+    "outputs/workbench_preset_library_visible_apply_0962D/ui_patch_candidate_0962D.json",
+    "outputs/workbench_preset_library_visible_apply_0962D/ui_patch_candidate_preview_0962D.html",
+    "outputs/workbench_preset_library_visible_apply_0962E/ui_patch_candidate_smoke_0962E.json",
+    "outputs/workbench_preset_library_visible_apply_0962F/apply_or_hold_gate_0962F.json",
+    "reports/0962F_WORKBENCH_PRESET_LIBRARY_VISIBLE_READONLY_APPLY_OR_HOLD_GATE/workbench_preset_library_visible_readonly_apply_or_hold_gate_0962F_result.json",
+    "reports/0962F_WORKBENCH_PRESET_LIBRARY_VISIBLE_READONLY_APPLY_OR_HOLD_GATE/workbench_preset_library_visible_readonly_apply_or_hold_gate_0962F_checklist.json",
+    "reports/0962F_WORKBENCH_PRESET_LIBRARY_VISIBLE_READONLY_APPLY_OR_HOLD_GATE/workbench_preset_library_visible_readonly_apply_or_hold_gate_0962F_report.md",
+    "reports/0962F_WORKBENCH_PRESET_LIBRARY_VISIBLE_READONLY_APPLY_OR_HOLD_GATE/workbench_preset_library_visible_readonly_apply_or_hold_gate_0962F_manifest.json"
+  ],
+  "manifest_minus_zip": [],
+  "zip_minus_manifest": [],
+  "zip_paths_use_forward_slash": true,
+  "final_status": "PASS",
+  "next_stage": "0963A_WORKBENCH_PRESET_LIBRARY_VISIBLE_READONLY_APPLY",
+  "next_stage_requires_explicit_decision": true
+}

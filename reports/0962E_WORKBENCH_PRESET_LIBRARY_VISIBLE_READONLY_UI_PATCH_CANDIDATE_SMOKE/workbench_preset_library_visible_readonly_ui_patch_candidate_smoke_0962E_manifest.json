@@ -1,0 +1,25 @@
+{
+  "stage_id": "0962E_WORKBENCH_PRESET_LIBRARY_VISIBLE_READONLY_UI_PATCH_CANDIDATE_SMOKE",
+  "created_at": "20260607_075742",
+  "root": "D:\\Documents\\SmartEdu\\xiaobei-core",
+  "external_report_dir": "D:\\Documents\\SmartEdu\\xiaobei-core-external-reports\\0962E_WORKBENCH_PRESET_LIBRARY_VISIBLE_READONLY_UI_PATCH_CANDIDATE_SMOKE_20260607_075742",
+  "zip_file": "workbench_preset_library_visible_readonly_ui_patch_candidate_smoke_0962E_review_package.zip",
+  "zip_entries": [
+    "docs/foundation/workbench_preset_library_visible_readonly_ui_patch_candidate_smoke_0962E.md",
+    "docs/foundation/workbench_preset_library_visible_readonly_ui_patch_candidate_smoke_0962E.json",
+    "scripts/validate_workbench_preset_library_visible_readonly_ui_patch_candidate_smoke_0962E.py",
+    "outputs/workbench_preset_library_visible_apply_0962D/ui_patch_candidate_0962D.json",
+    "outputs/workbench_preset_library_visible_apply_0962D/ui_patch_candidate_preview_0962D.html",
+    "outputs/workbench_preset_library_visible_apply_0962E/ui_patch_candidate_smoke_0962E.json",
+    "reports/0962E_WORKBENCH_PRESET_LIBRARY_VISIBLE_READONLY_UI_PATCH_CANDIDATE_SMOKE/workbench_preset_library_visible_readonly_ui_patch_candidate_smoke_0962E_result.json",
+    "reports/0962E_WORKBENCH_PRESET_LIBRARY_VISIBLE_READONLY_UI_PATCH_CANDIDATE_SMOKE/workbench_preset_library_visible_readonly_ui_patch_candidate_smoke_0962E_checklist.json",
+    "reports/0962E_WORKBENCH_PRESET_LIBRARY_VISIBLE_READONLY_UI_PATCH_CANDIDATE_SMOKE/workbench_preset_library_visible_readonly_ui_patch_candidate_smoke_0962E_report.md",
+    "reports/0962E_WORKBENCH_PRESET_LIBRARY_VISIBLE_READONLY_UI_PATCH_CANDIDATE_SMOKE/workbench_preset_library_visible_readonly_ui_patch_candidate_smoke_0962E_manifest.json"
+  ],
+  "manifest_minus_zip": [],
+  "zip_minus_manifest": [],
+  "zip_paths_use_forward_slash": true,
+  "final_status": "PASS",
+  "next_stage": "0962F_WORKBENCH_PRESET_LIBRARY_VISIBLE_READONLY_APPLY_OR_HOLD_GATE",
+  "next_stage_requires_explicit_decision": true
+}
