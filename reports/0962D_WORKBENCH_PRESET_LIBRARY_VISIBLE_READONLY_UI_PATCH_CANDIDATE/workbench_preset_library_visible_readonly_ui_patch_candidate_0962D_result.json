@@ -7,7 +7,7 @@
   "insert_after_selector": "article[data-card=\"packageCheck\"]",
   "insert_before_selector": "div.extra-toggle",
   "component_data_card": "presetLibraryReadonly",
-  "html_fragment_sha256": "fe6f4264d2b390a581c81cd69f7da884683a667962584e0b56d4844b7553a3c6",
+  "html_fragment_sha256": "9985598a762847315e16958719f9a32987310da4d8e3a01a42c965ef1a0f1081",
   "ordinary_teacher_capability": [
     "view",
     "ask_agent_to_explain",

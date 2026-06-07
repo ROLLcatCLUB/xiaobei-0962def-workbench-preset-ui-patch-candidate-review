@@ -20,21 +20,22 @@
   "zip_infos": {
     "0962D": {
       "path": "D:\\Documents\\SmartEdu\\xiaobei-core-external-reports\\0962D_WORKBENCH_PRESET_LIBRARY_VISIBLE_READONLY_UI_PATCH_CANDIDATE_20260607_075742\\workbench_preset_library_visible_readonly_ui_patch_candidate_0962D_review_package.zip",
-      "sha256": "d45858484a9da9e21533f1c6da5bf53429ba1816619ea97e491cf64c97fe20f0",
+      "sha256": "ff4b367a2b1184e0f255e7314f4859115bf4b72888d736c1d9b5c3df8122131d",
       "entry_count": 9,
       "external_dir": "D:\\Documents\\SmartEdu\\xiaobei-core-external-reports\\0962D_WORKBENCH_PRESET_LIBRARY_VISIBLE_READONLY_UI_PATCH_CANDIDATE_20260607_075742"
     },
     "0962E": {
       "path": "D:\\Documents\\SmartEdu\\xiaobei-core-external-reports\\0962E_WORKBENCH_PRESET_LIBRARY_VISIBLE_READONLY_UI_PATCH_CANDIDATE_SMOKE_20260607_075742\\workbench_preset_library_visible_readonly_ui_patch_candidate_smoke_0962E_review_package.zip",
-      "sha256": "afdd2d6b1fe45c56f09fa6ff4db83230f3c3c8093932008511a7d51c8baceb36",
+      "sha256": "9b0f73b16aea3c76df768f0526579551059d60c4739c246edfc498da20e35a07",
       "entry_count": 10,
       "external_dir": "D:\\Documents\\SmartEdu\\xiaobei-core-external-reports\\0962E_WORKBENCH_PRESET_LIBRARY_VISIBLE_READONLY_UI_PATCH_CANDIDATE_SMOKE_20260607_075742"
     },
     "0962F": {
       "path": "D:\\Documents\\SmartEdu\\xiaobei-core-external-reports\\0962F_WORKBENCH_PRESET_LIBRARY_VISIBLE_READONLY_APPLY_OR_HOLD_GATE_20260607_075742\\workbench_preset_library_visible_readonly_apply_or_hold_gate_0962F_review_package.zip",
-      "sha256": "60ec0dbee9dce0a5aa17824d4b36f0c536fe9dbbdba0a9b73c9bb8b9375b806b",
+      "sha256": "e7ad360726d544bee2a3b6dd7148b5d7fb52017d18a2d5f2c8e2dce61011673a",
       "entry_count": 11,
       "external_dir": "D:\\Documents\\SmartEdu\\xiaobei-core-external-reports\\0962F_WORKBENCH_PRESET_LIBRARY_VISIBLE_READONLY_APPLY_OR_HOLD_GATE_20260607_075742"
     }
-  }
+  },
+  "timestamp_corrected": "20260607_080000_unicode_and_validator_repair"
 }

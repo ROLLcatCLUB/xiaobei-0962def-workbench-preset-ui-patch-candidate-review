@@ -41,7 +41,7 @@ def main():
     if candidate.get("ui_patch_applied") is not False or candidate.get("index_html_modified") is not False:
         raise AssertionError("candidate applied or index modified")
     html=(root/"outputs/workbench_preset_library_visible_apply_0962D/ui_patch_candidate_preview_0962D.html").read_text(encoding="utf-8-sig")
-    for snippet in ['data-card="presetLibraryReadonly"','data-preset-library-readonly="0962D"','????']:
+    for snippet in ['data-card="presetLibraryReadonly"','data-preset-library-readonly="0962D"','section-title','pill pill-done']:
         if snippet not in html: raise AssertionError(f"html missing {snippet}")
     if '<script' in html.lower() or 'fetch(' in html: raise AssertionError("html contains executable/network code")
     if CODE in ["0962E","0962F"]:
